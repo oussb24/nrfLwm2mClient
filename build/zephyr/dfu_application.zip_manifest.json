@@ -1,0 +1,25 @@
+{
+    "format-version": 0,
+    "time": 1654864080,
+    "files": [
+        {
+            "load_address": 131584,
+            "version_MCUBOOT": "0.0.0+0",
+            "type": "application",
+            "board": "nrf9160dk_nrf9160",
+            "soc": "nRF9160_SICA",
+            "size": 371631,
+            "file": "app_update.bin",
+            "modtime": 1654864080
+        }
+    ],
+    "name": "lwm2m_client",
+    "firmware": {
+        "zephyr": {
+            "revision": "0a904d0c176acf67ab10285e42f4d1924bc5bb79"
+        },
+        "nrf": {
+            "revision": "880c82dba48655ee3a75edaefa0208782967ff17"
+        }
+    }
+}

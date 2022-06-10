@@ -1,0 +1,2 @@
+osource "c:/lwm2m_client/boards/shields/*/Kconfig.shield"
+osource "C:/ncs/v2.0.0/nrf/boards/shields/*/Kconfig.shield"
